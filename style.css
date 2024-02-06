@@ -1,0 +1,14 @@
+*{
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: black;
+}
+
+h1,p{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+img{
+    width: 250px;
+}
